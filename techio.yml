@@ -2,3 +2,5 @@ title: My First Playground
 plan:
 - title: Welcomee
   statement: statement.md
+- title: Part 2
+  statement: markdowns/part2.md
