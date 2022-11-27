@@ -1,11 +1,3 @@
-# Welcome!
+# Hello world,
 
-This Python template lets you get started quickly with a simple one-page playground. Here is your template!
-
-```python runnable
-print('Hello World!')
-```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+Welcome to this playground about this amazing technology. I'll show you ...
