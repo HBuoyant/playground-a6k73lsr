@@ -4,3 +4,6 @@ plan:
   statement: statement.md
 - title: Part 2
   statement: markdowns/part2.md
+
+git commit -a -m "My First Playground"
+git push origin master
